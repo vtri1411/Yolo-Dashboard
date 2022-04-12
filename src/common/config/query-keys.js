@@ -1,0 +1,6 @@
+export const PRODUCT_QUERY_KEY = 'PRODUCT'
+export const USER_QUERY_KEY = 'PRODUCT'
+export const SIZE_QUERY_KEY = 'SIZE'
+export const COLOR_QUERY_KEY = 'COLOR'
+export const BRAND_QUERY_KEY = 'BRAND'
+export const CATEGORY_QUERY_KEY = 'CATEGORY'
